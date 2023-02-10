@@ -1,2 +1,1 @@
-#!/bin/bash
-absolute path name
+Where am I
