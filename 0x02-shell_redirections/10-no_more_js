@@ -1,2 +1,2 @@
 #!/bin/bash
-cat *.js.|rm 
+ls *.js.|rm 
