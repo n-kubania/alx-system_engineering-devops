@@ -1,2 +1,2 @@
 #!/bin/bash
-ls *.js.|xargs rm 
+ls *.js.|xargs rm -r 
