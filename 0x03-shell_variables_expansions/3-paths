@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | sort | uniq -c
+echo $PATH | uniq -c
