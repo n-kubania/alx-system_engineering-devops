@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | uniq -c
+echo $PATH | wc -1 
