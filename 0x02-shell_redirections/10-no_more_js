@@ -1,2 +1,2 @@
 #!/bin/bash
-ls *.js.|xargs rm -r 
+find .*js .-type f -print | xargs rm -f
